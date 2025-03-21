@@ -9,5 +9,3 @@ This repository is a curated collection of **Markdown-based resources, cheatshee
 - **Comprehensive Cheatsheets** – Quick references for Markdown syntax and advanced usage.  
 - **Best Practices & Guides** – Practical insights from real-world experience.  
 - **Resourceful Knowledge Base** – Curated materials to boost productivity and learning.  
-
-Stay productive, streamline your documentation, and elevate your Markdown skills with the **AA Markdown Library**!  
