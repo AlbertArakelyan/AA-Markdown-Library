@@ -250,3 +250,7 @@ docker tag source_image new_image_name
 | `docker image prune` | Remove unused images | `docker image prune` |
 | `docker system prune` | Clean up unused containers, images, etc. | `docker system prune` |
 | `docker tag` | Tag an image | `docker tag source_image new_image_name` |
+
+---
+
+Made with ❤️ by [Albert Arakelyan](https://github.com/AlbertArakelyan)
