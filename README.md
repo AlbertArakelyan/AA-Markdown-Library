@@ -13,7 +13,7 @@ This repository is a curated collection of **Markdown-based resources, cheatshee
 ---
 
 ## 🔍 Table of Contents
-1. Docker
+1. [Docker](#1-docker)
 
 ---
 
