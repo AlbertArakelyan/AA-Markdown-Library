@@ -30,4 +30,7 @@ Docker is a platform that enables developers to build, ship, and run application
 - [Docker Official Website](https://www.docker.com/)
 
 ### 📝 Cheatsheets
-- [Docker Cheatsheet](./resources/docker/Docker_Cheatsheet.md)
+- [Docker Cheatsheet](./resources/docker/cheatsheets/Docker_Cheatsheet.md)
+
+### 📖 Guides
+- [MySQL + PHPMyAdmin in the Same Network on Docker](./resources/docker/guides/MySQL_+_PHPMyAdmin_in_the_Same_Network_on_Docker.md)
